@@ -1,2 +1,2 @@
-# Python Github workflow CI demo
+# Python CI demo using github action
 TBD
