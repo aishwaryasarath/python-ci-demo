@@ -1,4 +1,4 @@
-![example workflow](https://github.com/aishwaryasarath/python-ci-demo/actions/workflows/main.yml/badge.svg)
+![example workflow](https://github.com/aishwaryasarath/python-ci-demo/actions/workflows/python-app.yml/badge.svg)
 
 # Python CI demo using github action
 
